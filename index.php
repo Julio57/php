@@ -1,5 +1,6 @@
 <?php
 
-	Echo "Olá Mundo";
-	
-?>	
+	echo "Hello World! Estamos aqui.";
+ 
+?>
+
